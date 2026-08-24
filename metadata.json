@@ -1,0 +1,6 @@
+{
+  "name": "The Kohistani – Islamic History Platform",
+  "description": "A premium cinematic Islamic History documentary platform and complete CMS for @thekohistani, featuring video libraries, interactive historical timelines, personality biographies, educational articles, and an admin management suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
